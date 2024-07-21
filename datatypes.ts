@@ -14,4 +14,9 @@ age = 25.5;
 let num = "23";
 
 let result = parseInt(num);
+
+// Boolean
+let isValid: boolean = false;
+
+console.log(isValid);
 // lname = 10;

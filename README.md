@@ -7,4 +7,4 @@
 
 - Data Types
   - String
-  - Number
+  - Boolean
