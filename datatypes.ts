@@ -19,4 +19,26 @@ let result = parseInt(num);
 let isValid: boolean = false;
 
 console.log(isValid);
+
+// Array
+
+// String array
+let array: string[];
+array = ["John", "Nick", "Doe", "Chris"];
+
+let arrayResult3 = array.find((name) => name === "John");
+
+console.log(arrayResult3);
+
+// Number array
+let array2: Array<number>;
+array2 = [1, 2, 3, 4, 5];
+
+let arrayResult = array2.filter((num) => num > 2);
+let arrayResult2 = array2.find((num) => num === 2);
+let arrayResult4 = array2.reduce((acc, num) => acc + num);
+
+console.log(arrayResult);
+console.log(arrayResult2);
+console.log(arrayResult4);
 // lname = 10;

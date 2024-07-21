@@ -8,3 +8,4 @@
 - Data Types
   - String
   - Boolean
+  - Array
