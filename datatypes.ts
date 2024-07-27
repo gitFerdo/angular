@@ -41,4 +41,14 @@ let arrayResult4 = array2.reduce((acc, num) => acc + num);
 console.log(arrayResult);
 console.log(arrayResult2);
 console.log(arrayResult4);
+
+// enum
+const enum Color{
+    Red,
+    Green,
+    Blue
+}
+
+let c: Color = Color.Blue;
+
 // lname = 10;

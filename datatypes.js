@@ -29,4 +29,5 @@ let arrayResult4 = array2.reduce((acc, num) => acc + num);
 console.log(arrayResult);
 console.log(arrayResult2);
 console.log(arrayResult4);
+let c = 2 /* Color.Blue */;
 // lname = 10;

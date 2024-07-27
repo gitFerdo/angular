@@ -9,3 +9,4 @@
   - String
   - Boolean
   - Array
+  - Enum
