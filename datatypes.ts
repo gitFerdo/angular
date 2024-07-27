@@ -51,4 +51,16 @@ const enum Color{
 
 let c: Color = Color.Blue;
 
+// tuple
+let swapNumbers: [number, number];
+
+function swapNumber(num1: number, num2: number) : [number, number]{
+    return [num1, num2];
+}
+
+swapNumbers = swapNumber(10, 20);
+
+swapNumbers[0];
+swapNumbers[1];
+
 // lname = 10;

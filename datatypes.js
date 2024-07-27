@@ -30,4 +30,12 @@ console.log(arrayResult);
 console.log(arrayResult2);
 console.log(arrayResult4);
 let c = 2 /* Color.Blue */;
+// tuple
+let swapNumbers;
+function swapNumber(num1, num2) {
+    return [num1, num2];
+}
+swapNumbers = swapNumber(10, 20);
+swapNumbers[0];
+swapNumbers[1];
 // lname = 10;

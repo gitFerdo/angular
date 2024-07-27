@@ -10,3 +10,4 @@
   - Boolean
   - Array
   - Enum
+  - Tuple
