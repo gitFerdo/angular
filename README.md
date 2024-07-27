@@ -16,3 +16,4 @@
 - Function
   - Optional Parameter
   - Required Parameter
+  - Rest Parameter
