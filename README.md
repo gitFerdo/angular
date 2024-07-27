@@ -12,3 +12,6 @@
   - Enum
   - Tuple
   - Any
+
+- Function
+  - 

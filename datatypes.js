@@ -42,4 +42,3 @@ swapNumbers[1];
 let dep;
 dep = "it";
 dep = 20;
-// lname = 10;
