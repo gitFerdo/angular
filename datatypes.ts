@@ -63,4 +63,8 @@ swapNumbers = swapNumber(10, 20);
 swapNumbers[0];
 swapNumbers[1];
 
-// lname = 10;
+// any
+let dep: any;
+
+dep = "it";
+dep = 20;

@@ -38,4 +38,8 @@ function swapNumber(num1, num2) {
 swapNumbers = swapNumber(10, 20);
 swapNumbers[0];
 swapNumbers[1];
+// any
+let dep;
+dep = "it";
+dep = 20;
 // lname = 10;

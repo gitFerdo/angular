@@ -11,3 +11,4 @@
   - Array
   - Enum
   - Tuple
+  - Any
