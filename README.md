@@ -15,3 +15,4 @@
 
 - Function
   - Optional Parameter
+  - Required Parameter

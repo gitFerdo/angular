@@ -11,10 +11,13 @@ console.log(add2(2, 3));
 function add3(a, b, c) {
     return c ? a + b + c : a + b;
 }
-console.log(add2(2, 3));
+console.log(add3(2, 3));
 // 2
 const sub = (num1, num2) => num1 - num2;
 console.log(sub(2, 3));
+const sub2 = (num1, num2, num3 = 10) => num1 - num2 - num3;
+console.log(sub2(2, 3));
+console.log(sub2(2, 3, 5));
 // 3
 const mult = function (num1, num2) {
     return num1 * num2;

@@ -22,6 +22,11 @@ const sub = (num1: number, num2: number): number => num1 - num2;
 
 console.log(sub(2, 3));
 
+const sub2 = (num1: number, num2: number, num3 = 10): number => num1 - num2 - num3;
+
+console.log(sub2(2, 3));
+console.log(sub2(2, 3, 5));
+
 // 3
 const mult = function (num1: number, num2: number): number{
     return num1 * num2;
